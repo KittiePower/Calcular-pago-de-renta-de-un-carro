@@ -1,0 +1,24 @@
+/******************************************************************************
+Calcular pago de renta de un carro
+Autor: Elisa Michelle MV.
+Fecha: 230322
+*******************************************************************************/
+#include <iostream>
+Using namespace std;
+Int main ()
+{
+    //Declaración de variables 
+    float renta, Kilometro, Establecido;
+    
+    
+    //Entrada de datos por teclado y procedimientos 
+    cout<<" Escribe el valor del Kilometro " ;
+    cin>>Kilometro;
+    cout<<" Escribe el valor Establecido " ;
+    cin>>Establecido;
+    Renta= Establecido * Kilometro 
+    ;cout<< " El pago de renta del carro es " <<renta<<endl;
+    
+    return 0;
+}
+
